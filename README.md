@@ -31,6 +31,7 @@ of the
 release.**
 
 ### Getting help
+## By Mudassir Alam
 
 If you have any questions or need assistance troubleshooting your FreeRTOS project,
 we have an active community that can help on the
